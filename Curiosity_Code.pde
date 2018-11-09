@@ -35,4 +35,4 @@ ellipse(235,220,120,120);
 text("The wind is blowing on the flag, if you wondering why the shape of the flag is like this.", 5,450);
 textSize(25);
 fill(#AA8160);
-save("William_Tsui.Curiosity_Code.Drawing.png");
+
